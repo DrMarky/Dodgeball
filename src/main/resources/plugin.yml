@@ -1,0 +1,7 @@
+main: me.drmarky.dodgeball.DodgeballPlugin
+version: 0.1.0
+name: Dodgeball
+
+commands:
+  dodgeball:
+    description: Main dodgeball command.
